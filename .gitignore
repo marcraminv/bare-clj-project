@@ -1,0 +1,6 @@
+.clj-kondo
+.cpcache
+.calva
+.lsp
+*.code-workspace
+.nrepl-port
