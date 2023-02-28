@@ -1,0 +1,4 @@
+{
+ :deps {metosin/malli {:mvn/version "0.10.1"}
+        cheshire/cheshire {:mvn/version "5.11.0"}}
+ }

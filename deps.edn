@@ -1,4 +1,5 @@
 {:deps {org.clojure/clojure {:mvn/version "1.11.1"}
+        malli/malli {:local/root "./malli"}
         }
  :paths ["src"]
  :aliases
